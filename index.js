@@ -6,7 +6,7 @@ function calculate(){
    var date = new Date().getFullYear(); 
    var birthyear = number - date;
     document.getElementById("year").style.display="block";
-    document.getElementById("year").innerHTML = "your birth year is " +birthyear;
+    document.getElementById("year").innerHTML = "Your birth year is " + birthyear;
  }
            document.getElementById("year").style.display="none";
     document.getElementById("button").onclick = function(){calculate();}
