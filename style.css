@@ -1,6 +1,7 @@
 #button{
     background-color: #f8be20;
     color:#fff;
+    font-weight:bold;
     width:100px;
     height: 35px;
     Border-radius:5px; }
