@@ -6,4 +6,9 @@
     Border-radius:5px; }
 Input {border-color: #333;}
 input text {font-size:1.2em;}
-#year {color:blueviolet;font-size: 1.2em;font-weight: bold;text-align: center;}
+#year {
+    color:#333;
+    font-size: 1.2em;
+    font-weight: bold;
+    text-align: center;
+}
